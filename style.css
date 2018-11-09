@@ -7,14 +7,17 @@ body {
     border-color: white;
  }
  h1 {
-     color: white;
+    font-family: 'BenchNine', sans-serif;
      font-size: 78px;
      text-align: center;
  }
-h2 {
-     color: limegreen;
+ h2 {
+     font-family: 'Lobster Two', cursive;
+     text-align: center;
+     font-size: 50px;
  }
  p {
      color: red;
+     font-family: 'BenchNine', sans-serif;
  }
  
